@@ -78,9 +78,9 @@ endmodule
 
 ### Timing diagram
 
-[images](./images/halfaddSimulation.jpeg)
+![images](./images/halfaddSimulation.jpeg)
 
-###Full Adder 
+### Full Adder 
 
 ### TRUTH TABLE
 
